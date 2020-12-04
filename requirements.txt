@@ -1,0 +1,2 @@
+git+git://github.com/nbro/pycolab.git#egg=pycolab
+absl-py
