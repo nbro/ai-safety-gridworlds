@@ -1,2 +1,6 @@
-git+git://github.com/nbro/pycolab.git#egg=pycolab
+#git+git://github.com/nbro/pycolab.git#egg=pycolab
 absl-py
+numpy
+pycolab
+# enum34
+tensorflow
